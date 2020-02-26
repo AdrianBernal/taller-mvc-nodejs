@@ -3,7 +3,7 @@ const User = require("../model/User");
 //const url = require('url');
 //const qs = require('querystring');
 //Template V3
-const Template = require("Template");
+const Template = require("utils/Template");
 
 var userController = {};
 
